@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitgupta67&show_icons=true&locale=en&layout=compact" alt="ankitgupta67" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitgupta67&show_icons=true&locale=en" alt="ankitgupta67" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitgupta67&" alt="ankitgupta67" /></p>
